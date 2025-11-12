@@ -1,10 +1,10 @@
-# 🧩 Get-MsiBasics.ps1
+# Get-MsiBasics.ps1
 
 Retrieves Microsoft Installer **Path**, **Name**, **Size**, **ProductName**, **ProductVersion**, and **Manufacturer** information.
 
 ---
 
-## 💻 Usage
+## Usage
 
 ```powershell
 # Import or run directly
@@ -20,7 +20,7 @@ PS C:\Users\b5null\Documents> Get-MsiBasics 'D:\Software\*.msi'
 
 ---
 
-## 📘 Get-Help Output
+## Get-Help Output
 
 ```powershell
 PS C:\Users\b5null\Documents> Get-Help Get-MsiBasics
